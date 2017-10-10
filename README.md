@@ -27,7 +27,7 @@ problem of looking of the SWP office ----
 **Following is same conversation *with* the Suggestive Pop-Ups
 between the student and the dean.**
 
-**30.08.2015 1:00PM**
+30.08.2015 1:00PM
 
 **Student:** Sir, I lost my phone. What can I do about it?
 
