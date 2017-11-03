@@ -8,20 +8,25 @@
 
 ### Problems
 1. Usage of names based on context of the names
-Ex1: You should go meet kevin
-  - User1 gets pop-up to share kevin's contact details
-Ex2: Kevin and Abhinav are good students.
-  - User1 gets pop-up to share kevin's and abhinav's contact details
+
+ - Ex1: You should go meet kevin
+  
+    - User1 gets pop-up to share kevin's contact details
+    
+ - Ex2: Kevin and Abhinav are good students.
+  
+    - User1 gets pop-up to share kevin's and abhinav's contact details
 
 ### Alternatives
-1. Predictive text based on Who, What, When, Where and How on the context
-Ex1: I sent you a picture.
+1. Predictive text based on Who, What, When, Where and How questions of the context which is chat conversations 
+
+  Ex1: User1 types "I sent you a picture."
+  
   - Knowing 'what' had to sent based on the chat between the users. "A picture of my new haircut"
   - Knowing 'how'/'where'. Which medium was used. Whatsapp or email
-  - Knowing 'when'. Need it be asked? Yes. Maybe. 
+  - Knowing 'when'. Need it be asked? Yes. Maybe.
   
-Unable to proceed with any new ideas or knowing what am I doing. My friend said I am making a Cognitive Thinking application. Or a chat morderator. 
-
+  If User1 told User2 that he got a haircut and user2 requested a picture over whatsapp. So the chat history answers 'what' of the context but not 'how'/'where'. Hence user1 can get text prediction: 'on whatsapp', 'on email'. 
 
 # Suggestive-Pop-Ups
 Assistive Information for textual conversations using Pop-Ups
